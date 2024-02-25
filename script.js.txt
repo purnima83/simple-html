@@ -1,0 +1,1 @@
+// This is optional, you can leave this file empty if you don't need JavaScript functionality.
